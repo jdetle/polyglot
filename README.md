@@ -27,6 +27,7 @@ Download information for jupyter kernels in one place, TL;DR style.
     - `install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))`
     - `devtools::install_github('IRkernel/IRkernel')`
     - `IRkernel::installspec()`
+    
 ## Ruby
 ### IRuby
 1. If you don't have ruby, install that!
